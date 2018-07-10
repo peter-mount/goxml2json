@@ -3,6 +3,8 @@ package xml2json
 import (
 	"bytes"
 	"io"
+	"strconv"
+	"strings"
 	"unicode/utf8"
 )
 
